@@ -1,6 +1,6 @@
 # ShortNotes-iOS
 
-A simple iOS note taking app using Dropbox Sync SDK. That helps to create/update/delete Notes. This app syncs directly with Dropbox Short Notes App folder.
+A simple apple note app with sync. That helps to create/update/delete Notes. This app syncs directly with Dropbox Short Notes App folder.
 
 ## Screenshots
 
